@@ -1,0 +1,6 @@
+{
+    "train_data_path": "C:/Users/Billy/SkyDrive/Desktop/JobSalaryPrediction/data/Train.csv",
+    "valid_data_path": "C:/Users/Billy/SkyDrive/Desktop/JobSalaryPrediction/data/Valid.csv",
+    "model_path": "C:/Users/Billy/SkyDrive/Desktop/JobSalaryPrediction/data/random_forest.pickle",
+    "prediction_path": "C:/Users/Billy/SkyDrive/Desktop/JobSalaryPrediction/data/random_forest_benchmark.csv"
+}
